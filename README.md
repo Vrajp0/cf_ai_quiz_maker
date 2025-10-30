@@ -1,4 +1,4 @@
-# AI PDF Chatbot 🤖📚
+# AI PDF Chatbot 
 
 This project is a web-based chatbot that can read, summarize, and interact with PDF documents using Cloudflare Workers AI. It processes PDFs in chunks, summarizes them, and can generate quizzes or answer questions about the content.
 
@@ -27,5 +27,8 @@ This project is a web-based chatbot that can read, summarize, and interact with 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/Vrajp0/cf_ai_quiz_maker.git
+   cd cf_ai_quiz_maker
+   ```
+
+   
