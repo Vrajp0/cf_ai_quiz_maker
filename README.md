@@ -25,10 +25,24 @@ This project is a web-based chatbot that can read, summarize, and interact with 
 
 ## Setup & Installation
 
-1. Clone the repo:
+0. Prerequisites:
+   
+     **Node.js v18+**  
+   Download from [https://nodejs.org](https://nodejs.org).
+
+  
+1.  Clone the repo:
    ```bash
    git clone https://github.com/Vrajp0/cf_ai_quiz_maker.git
    cd cf_ai_quiz_maker
    ```
+
+2.  Run locally with:
+   ```bash
+   npx serve pages
+   ```
+
+3. Upload any PDF with text that you want to summarize and make a quiz out of. 
+   
 
    
