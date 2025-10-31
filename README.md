@@ -42,7 +42,7 @@ This project is a web-based chatbot that can read, summarize, and interact with 
    npx serve pages
    ```
 
-3. Upload any PDF with text that you want to summarize and make a quiz out of. 
+3. Upload any PDF with text that you want to summarize and make a quiz out of (there are test PDFs in the testPDF folder to try out).
    
 
    
